@@ -185,17 +185,13 @@ AWS • Kubernetes • Docker • GitHub Actions • Jenkins • Terraform • A
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-bordon&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-bordon&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-bordon&theme=github_dark" />
-</p>
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c-bordon&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c-bordon&theme=github_dark" />
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c-bordon&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c-bordon&theme=github_dark&utcOffset=-3)
 
 ---
 
