@@ -86,6 +86,19 @@ My expertise includes Kubernetes, AWS, Infrastructure as Code, CI/CD automation,
 - Metrics
 - Alerting
 
+## 🚀 Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
+
 ---
 
 # Professional Experience
@@ -145,21 +158,44 @@ AWS • Kubernetes • Docker • GitHub Actions • Jenkins • Terraform • A
 
 ---
 
-# GitHub Stats
+# 📊 Developer Dashboard
 
-> *(You can enable these cards after creating the repository.)*
+## 💻 Languages
 
-```text
-GitHub Stats
-Top Languages
-Contribution Graph
-```
+- Python
+- Bash
+- Groovy
+- YAML
+- Dockerfile
 
-Example:
+## ☁️ Cloud & Infrastructure
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-bordon&show_icons=true)
+- AWS
+- Kubernetes
+- Docker
+- Terraform
+- Ansible
+- Puppet
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-bordon&layout=compact)
+## 🔄 CI/CD
+
+- GitHub Actions
+- Jenkins
+- Helm
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c-bordon&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-bordon&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c-bordon&theme=github_dark" />
+</p>
 
 ---
 
