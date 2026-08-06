@@ -158,46 +158,28 @@ AWS • Kubernetes • Docker • GitHub Actions • Jenkins • Terraform • A
 
 ---
 
-# 📊 Developer Dashboard
+# Portfolio Highlights
 
-## 💻 Languages
+Below are the systems, projects, and outcomes that best demonstrate my experience and value for Senior DevOps, Platform Engineering, and SRE roles:
 
-- Python
-- Bash
-- Groovy
-- YAML
-- Dockerfile
+- Enterprise Kubernetes platforms — design and operation of production-grade clusters (EKS), multi-AZ resilience, autoscaling, and operational runbooks.
+- AWS infrastructure — VPC design, networking, IAM, highly available services, and cost-optimized architectures.
+- Wazuh & OpenSearch deployments — security monitoring, SIEM pipelines, log analytics, and incident investigations.
+- CI/CD pipelines — GitHub Actions and Jenkins pipelines for automated testing, deployment, and release orchestration.
+- Infrastructure as Code — Terraform, CloudFormation, and Ansible for repeatable, versioned infrastructure provisioning.
+- Technical leadership & collaboration — leading cross-functional initiatives, architecture reviews, mentoring, and on-call practices.
+- Architecture diagrams & runbooks — clear system diagrams, operational runbooks, and capacity/incident playbooks.
+- Real engineering case studies — reproducible project write-ups and repository links demonstrating design decisions, tradeoffs, and outcomes.
 
-## ☁️ Cloud & Infrastructure
+For detailed examples, explore my repositories or reach out on LinkedIn to request specific case studies and architecture diagrams.
 
-- AWS
-- Kubernetes
-- Docker
-- Terraform
-- Ansible
-- Puppet
+## Selected Case Studies
 
-## 🔄 CI/CD
+- [wazuh/wazuh-installation-assistant](https://github.com/wazuh/wazuh-installation-assistant) — Installation helpers and deployment patterns for Wazuh.
+- [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) — Containerized Wazuh deployment examples and Docker configs.
+- [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) — Ansible roles and playbooks for Wazuh automation.
+- [wazuh/wazuh-kubernetes](https://github.com/wazuh/wazuh-kubernetes) — Kubernetes manifests and operators for running Wazuh at scale.
 
-- GitHub Actions
-- Jenkins
-- Helm
-
-## 📈 GitHub Activity
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-bordon&theme=github_dark)
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c-bordon&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c-bordon&theme=github_dark)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c-bordon&theme=github_dark&utcOffset=-3)
-
-## GitHub Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=c-bordon&theme=transparent&hide_border=true">
-</p>
 ---
 
 # Contact
