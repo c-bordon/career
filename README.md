@@ -193,6 +193,11 @@ AWS • Kubernetes • Docker • GitHub Actions • Jenkins • Terraform • A
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c-bordon&theme=github_dark&utcOffset=-3)
 
+## GitHub Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=c-bordon&theme=transparent&hide_border=true">
+</p>
 ---
 
 # Contact
